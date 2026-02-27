@@ -1,0 +1,63 @@
+{
+  "modmenu.nameTranslation.fuckthevisuals": "FuckTheVisuals",
+  "modmenu.descriptionTranslation.fuckthevisuals": "Vanilla+ visual enhancements and utility features",
+
+  "fuckthevisuals.config.title": "FuckTheVisuals Settings",
+
+  "fuckthevisuals.category.visual": "Visual Features",
+  "fuckthevisuals.category.utility": "Utility Features",
+  "fuckthevisuals.category.waypoints": "Waypoints",
+  "fuckthevisuals.category.hand": "Custom Hand",
+  "fuckthevisuals.category.targethud": "Target HUD",
+  "fuckthevisuals.category.watermark": "Watermark",
+  "fuckthevisuals.category.hitbox": "Entity Hitboxes",
+  "fuckthevisuals.category.breakanim": "Breaking Animation",
+  "fuckthevisuals.category.chat": "Better Chat",
+  "fuckthevisuals.category.hotbar": "Custom Hotbar",
+  "fuckthevisuals.category.qolhud": "QoL HUD",
+  "fuckthevisuals.category.antibot": "Anti-Bot",
+  "fuckthevisuals.category.autofish": "Auto Fish",
+  "fuckthevisuals.category.autotool": "Auto Tool",
+  "fuckthevisuals.category.guimove": "GUI Move",
+  "fuckthevisuals.category.totemoffhand": "Totem Offhand",
+
+  "fuckthevisuals.key.add_waypoint": "Add Waypoint",
+  "fuckthevisuals.key.waypoint_manager": "Open Waypoint Manager",
+  "fuckthevisuals.key.totem_offhand": "Move Totem to Offhand",
+  "fuckthevisuals.key.toggle_waypoints": "Toggle Waypoints",
+  "fuckthevisuals.key.toggle_hitboxes": "Toggle Entity Hitboxes",
+  "fuckthevisuals.key.toggle_targethud": "Toggle Target HUD",
+  "fuckthevisuals.key.category": "FuckTheVisuals",
+
+  "fuckthevisuals.waypoint.added": "Waypoint added: %s",
+  "fuckthevisuals.waypoint.manager": "Waypoint Manager",
+  "fuckthevisuals.waypoint.new": "New Waypoint",
+  "fuckthevisuals.waypoint.delete": "Delete",
+  "fuckthevisuals.waypoint.name": "Name",
+  "fuckthevisuals.waypoint.coords": "Coordinates",
+  "fuckthevisuals.waypoint.dimension": "Dimension",
+  "fuckthevisuals.waypoint.color": "Color",
+  "fuckthevisuals.waypoint.enabled": "Enabled",
+
+  "fuckthevisuals.totem.moved": "Totem moved to offhand",
+  "fuckthevisuals.totem.none": "No totem in inventory",
+
+  "fuckthevisuals.hotbar.style.vanilla_plus": "Vanilla+",
+  "fuckthevisuals.hotbar.style.minimal": "Minimal",
+  "fuckthevisuals.hotbar.style.classic": "Classic",
+  "fuckthevisuals.hotbar.style.modern": "Modern",
+  "fuckthevisuals.hotbar.style.transparent": "Transparent",
+
+  "fuckthevisuals.hand.preset.vanilla": "Vanilla",
+  "fuckthevisuals.hand.preset.old_pvp": "Old PvP (1.7)",
+  "fuckthevisuals.hand.preset.small": "Small",
+  "fuckthevisuals.hand.preset.large": "Large",
+  "fuckthevisuals.hand.preset.side": "Side",
+  "fuckthevisuals.hand.preset.custom": "Custom",
+
+  "fuckthevisuals.breakanim.style.gradient": "Gradient",
+  "fuckthevisuals.breakanim.style.outline": "Outline",
+  "fuckthevisuals.breakanim.style.pixelate": "Pixelate",
+  "fuckthevisuals.breakanim.style.shrink": "Shrink",
+  "fuckthevisuals.breakanim.style.color_overlay": "Color Overlay"
+}

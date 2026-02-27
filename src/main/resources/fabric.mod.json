@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "fuckthevisuals",
+  "version": "${version}",
+  "name": "FuckTheVisuals",
+  "description": "Vanilla+ visual enhancements and utility features for Minecraft 1.21.4",
+  "authors": [
+    "fuckthevisuals"
+  ],
+  "contact": {
+    "sources": "https://github.com/fuckthevisuals/fuckthevisuals"
+  },
+  "license": "MIT",
+  "icon": "assets/fuckthevisuals/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.fuckthevisuals.FuckTheVisuals"
+    ],
+    "modmenu": [
+      "dev.fuckthevisuals.config.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "fuckthevisuals.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "*",
+    "cloth-config": "*"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}
