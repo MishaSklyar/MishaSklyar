@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "package": "dev.fuckthevisuals.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MixinGameRenderer",
+    "MixinHeldItemRenderer",
+    "MixinInGameHud",
+    "MixinWorldRenderer",
+    "MixinClientPlayerInteractionManager",
+    "MixinScreen",
+    "MixinPlayerListHud",
+    "MixinChatHud",
+    "MixinFishingBobberEntity",
+    "MixinClientWorld",
+    "MixinHandledScreen"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
